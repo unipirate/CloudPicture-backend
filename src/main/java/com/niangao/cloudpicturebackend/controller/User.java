@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.niangao.cloudpicturebackend.demos.web;
+package com.niangao.cloudpicturebackend.controller;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>

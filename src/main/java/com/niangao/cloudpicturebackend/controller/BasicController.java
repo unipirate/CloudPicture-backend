@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.niangao.cloudpicturebackend.demos.web;
+package com.niangao.cloudpicturebackend.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
